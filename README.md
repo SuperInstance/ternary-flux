@@ -105,3 +105,11 @@ No external dependencies — pure Rust.
 ## License
 
 MIT
+
+## See Also
+- **ternary-streaming** — related
+- **ternary-pipeline** — related
+- **ternary-event** — related
+- **ternary-current** — related
+- **ternary-bus** — related
+
